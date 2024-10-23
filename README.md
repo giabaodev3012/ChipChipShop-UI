@@ -1,4 +1,4 @@
-# ASP>NET Core 6.0 project from GiaBao_HoangYen
+# ASP.NET Core 6.0 project from GiaBao_HoangYen
 ## Technologies
 - ASP.NET Core 6.0
 - Entity Framework Core ??
