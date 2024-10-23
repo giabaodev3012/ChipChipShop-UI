@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ChipChipShop.WebApp.props" />
+</Project>

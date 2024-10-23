@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qVi7nVPjxPhGWdFuuwchPgSZMl5Gxfk/8rl+pl22fuuN44sRelxJCLXSt6QSK/OAOBxLZCYTyz38qHqECWLIkA==",
+  "success": true,
+  "projectFilePath": "D:\\ChipChipShop-UI\\ChipChipShop.WebApp\\ChipChipShop.WebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIA BAO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\GIA BAO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\GIA BAO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\GIA BAO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
