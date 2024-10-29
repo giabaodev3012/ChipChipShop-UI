@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pIRNWIXf9s4=",
+  "dgSpecHash": "Jvw2wc0Ax4U=",
   "success": true,
-  "projectFilePath": "D:\\Workspace-Code\\webdoan\\ChipChipShop\\ChipChipShop\\ChipChipShop.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\ChipChipShop-UI\\ChipChipShop\\ChipChipShop\\ChipChipShop.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

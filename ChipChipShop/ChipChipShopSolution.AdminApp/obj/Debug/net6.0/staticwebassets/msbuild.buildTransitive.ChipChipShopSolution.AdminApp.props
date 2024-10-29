@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ChipChipShopSolution.AdminApp.props" />
+</Project>

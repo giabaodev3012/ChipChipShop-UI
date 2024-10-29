@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChipChipShop", "ChipChipShop\ChipChipShop.csproj", "{DFCD9BF8-C032-4CD4-BF05-37D9B1A0D842}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31A3B21C-2DCB-475C-9E64-3E7ED8735ECF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eChipChipShop.Data", "eChipChipShop.Data\eChipChipShop.Data.csproj", "{47D572A9-1923-47E9-BA61-0F51CE2C9FFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.WebApp", "ChipChipShopSolution.WebApp\ChipChipShopSolution.WebApp.csproj", "{0E7DEDEB-CFF2-4106-B94E-45D06C310B49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eChipChipShop.Application", "eChipChipShop.Application\eChipChipShop.Application.csproj", "{DAB6EE28-E65C-4441-AAB4-51E2AEB68851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.AdminApp", "ChipChipShopSolution.AdminApp\ChipChipShopSolution.AdminApp.csproj", "{3D3A5F2A-2DCF-416D-8B90-252389F420F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,18 +15,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DFCD9BF8-C032-4CD4-BF05-37D9B1A0D842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DFCD9BF8-C032-4CD4-BF05-37D9B1A0D842}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DFCD9BF8-C032-4CD4-BF05-37D9B1A0D842}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DFCD9BF8-C032-4CD4-BF05-37D9B1A0D842}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47D572A9-1923-47E9-BA61-0F51CE2C9FFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47D572A9-1923-47E9-BA61-0F51CE2C9FFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47D572A9-1923-47E9-BA61-0F51CE2C9FFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47D572A9-1923-47E9-BA61-0F51CE2C9FFD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DAB6EE28-E65C-4441-AAB4-51E2AEB68851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAB6EE28-E65C-4441-AAB4-51E2AEB68851}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DAB6EE28-E65C-4441-AAB4-51E2AEB68851}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DAB6EE28-E65C-4441-AAB4-51E2AEB68851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E7DEDEB-CFF2-4106-B94E-45D06C310B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7DEDEB-CFF2-4106-B94E-45D06C310B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7DEDEB-CFF2-4106-B94E-45D06C310B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7DEDEB-CFF2-4106-B94E-45D06C310B49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("eChipChipShop.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55ef4266bd36b21a0ad1c6b69258442bde67493e")]
 [assembly: System.Reflection.AssemblyProductAttribute("eChipChipShop.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("eChipChipShop.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
