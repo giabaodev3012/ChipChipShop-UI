@@ -27,3 +27,5 @@ D:\ChipChipShop-UI\ChipChipShop\ChipChipShopSolution.AdminApp\obj\Debug\net6.0\r
 D:\ChipChipShop-UI\ChipChipShop\ChipChipShopSolution.AdminApp\obj\Debug\net6.0\ChipChipShopSolution.AdminApp.pdb
 D:\ChipChipShop-UI\ChipChipShop\ChipChipShopSolution.AdminApp\obj\Debug\net6.0\ChipChipShopSolution.AdminApp.genruntimeconfig.cache
 D:\ChipChipShop-UI\ChipChipShop\ChipChipShopSolution.AdminApp\obj\Debug\net6.0\ref\ChipChipShopSolution.AdminApp.dll
+D:\ChipChipShop-UI\ChipChipShop\ChipChipShopSolution.AdminApp\obj\Debug\net6.0\ChipChipShopSolution.AdminApp.csproj.AssemblyReference.cache
+D:\ChipChipShop-UI\ChipChipShop\ChipChipShopSolution.AdminApp\obj\Debug\net6.0\ChipChipShopSolution.AdminApp.MvcApplicationPartsAssemblyInfo.cs

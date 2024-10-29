@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.WebApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.AdminApp", "ChipChipShopSolution.AdminApp\ChipChipShopSolution.AdminApp.csproj", "{3D3A5F2A-2DCF-416D-8B90-252389F420F5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Infrastructure", "1. Infrastructure", "{8ADC3DE7-611C-412F-B7E8-64BC842262B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShop.ViewModels", "..\..\ChipChipShopAPI\ChipChipShop-API\ChipChipShop.ViewModels\ChipChipShop.ViewModels.csproj", "{6EEE6913-9A95-4515-A702-B7D5A356E618}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,9 +27,16 @@ Global
 		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D3A5F2A-2DCF-416D-8B90-252389F420F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EEE6913-9A95-4515-A702-B7D5A356E618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEE6913-9A95-4515-A702-B7D5A356E618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEE6913-9A95-4515-A702-B7D5A356E618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEE6913-9A95-4515-A702-B7D5A356E618}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6EEE6913-9A95-4515-A702-B7D5A356E618} = {8ADC3DE7-611C-412F-B7E8-64BC842262B4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7919AE68-A1D5-4C8A-89DF-540187401A82}
