@@ -54,7 +54,7 @@ namespace ChipChipShopSolution.AdminApp.Controllers
 
             // Xác thực token
 
-            ClaimsPrincipal principal = new JwtSecurityTokenHandler().VakidateToken(jwtToken, validationParameters, out validatedToken);
+            ClaimsPrincipal principal = new JwtSecurityTokenHandler().Vali dateToken(jwtToken, validationParameters, out validatedToken);
             // Trả về thông tin người dùng
             return principal;
         }
