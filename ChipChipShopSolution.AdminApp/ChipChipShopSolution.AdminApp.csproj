@@ -18,8 +18,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ChipChipShop.ViewModels\ChipChipShop.ViewModels.csproj" />
-    <ProjectReference Include="..\ChipChipShopBackend.API\ChipChipShopBackend.API.csproj" />
+    <ProjectReference Include="..\ChipChipShop-API\ChipChipShop.Application\ChipChipShop.Application.csproj" />
+    <ProjectReference Include="..\ChipChipShop-API\ChipChipShop.Data\ChipChipShop.Data.csproj" />
+    <ProjectReference Include="..\ChipChipShop-API\ChipChipShop.Utilities\ChipChipShop.Utilities.csproj" />
+    <ProjectReference Include="..\ChipChipShop-API\ChipChipShop.ViewModels\ChipChipShop.ViewModels.csproj" />
+    <ProjectReference Include="..\ChipChipShop-API\ChipChipShopBackend.API\ChipChipShopBackend.API.csproj" />
   </ItemGroup>
 
 </Project>

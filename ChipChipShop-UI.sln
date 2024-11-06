@@ -7,6 +7,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.AdminA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.WebApp", "ChipChipShopSolution.WebApp\ChipChipShopSolution.WebApp.csproj", "{E3858CB5-DC50-4778-ADFE-E203BA537084}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShop.Application", "ChipChipShop-API\ChipChipShop.Application\ChipChipShop.Application.csproj", "{B2058C49-BB4B-4053-8794-25EA8D13941C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShop.Data", "ChipChipShop-API\ChipChipShop.Data\ChipChipShop.Data.csproj", "{91466734-741E-49AA-B2AC-D70350738BDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShop.Utilities", "ChipChipShop-API\ChipChipShop.Utilities\ChipChipShop.Utilities.csproj", "{56163E03-CC37-4B08-AE7A-3BDF1B38526A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShop.ViewModels", "ChipChipShop-API\ChipChipShop.ViewModels\ChipChipShop.ViewModels.csproj", "{9B070D82-064A-403A-AF65-6256A5EA29EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopBackend.API", "ChipChipShop-API\ChipChipShopBackend.API\ChipChipShopBackend.API.csproj", "{198FCC72-ED61-4C7D-9EB1-EE24B82DCF4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +31,26 @@ Global
 		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2058C49-BB4B-4053-8794-25EA8D13941C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2058C49-BB4B-4053-8794-25EA8D13941C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2058C49-BB4B-4053-8794-25EA8D13941C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2058C49-BB4B-4053-8794-25EA8D13941C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91466734-741E-49AA-B2AC-D70350738BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91466734-741E-49AA-B2AC-D70350738BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91466734-741E-49AA-B2AC-D70350738BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91466734-741E-49AA-B2AC-D70350738BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56163E03-CC37-4B08-AE7A-3BDF1B38526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56163E03-CC37-4B08-AE7A-3BDF1B38526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56163E03-CC37-4B08-AE7A-3BDF1B38526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56163E03-CC37-4B08-AE7A-3BDF1B38526A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B070D82-064A-403A-AF65-6256A5EA29EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B070D82-064A-403A-AF65-6256A5EA29EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B070D82-064A-403A-AF65-6256A5EA29EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B070D82-064A-403A-AF65-6256A5EA29EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198FCC72-ED61-4C7D-9EB1-EE24B82DCF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198FCC72-ED61-4C7D-9EB1-EE24B82DCF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198FCC72-ED61-4C7D-9EB1-EE24B82DCF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198FCC72-ED61-4C7D-9EB1-EE24B82DCF4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
