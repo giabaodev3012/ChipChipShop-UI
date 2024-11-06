@@ -1,0 +1,3 @@
+[submodule "ChipChipShop-API"]
+	path = ChipChipShop-API
+	url = https://github.com/giabaodev3012/ChipChipShop-API.git

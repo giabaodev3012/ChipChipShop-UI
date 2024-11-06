@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.AdminApp", "ChipChipShopSolution.AdminApp\ChipChipShopSolution.AdminApp.csproj", "{16A1E76B-7B27-42D9-B2D6-6300E3CBE662}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChipChipShopSolution.WebApp", "ChipChipShopSolution.WebApp\ChipChipShopSolution.WebApp.csproj", "{E3858CB5-DC50-4778-ADFE-E203BA537084}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A1E76B-7B27-42D9-B2D6-6300E3CBE662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A1E76B-7B27-42D9-B2D6-6300E3CBE662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A1E76B-7B27-42D9-B2D6-6300E3CBE662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A1E76B-7B27-42D9-B2D6-6300E3CBE662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3858CB5-DC50-4778-ADFE-E203BA537084}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A87179E8-A26D-466E-86C9-0D57796B34D9}
+	EndGlobalSection
+EndGlobal
