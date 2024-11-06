@@ -1,0 +1,34 @@
+# Bỏ qua tất cả thư mục bin và obj trong cả hai dự án
+**/bin/
+**/obj/
+
+# Bỏ qua các tệp cấu hình cục bộ (local configuration)
+appsettings.Development.json
+*.csproj.user
+
+# Bỏ qua các tệp và thư mục tạm của .NET
+*.pdb
+*.exe
+*.dll
+*.log
+*.cache
+*.temp
+*.pid
+*.xml
+*.sqlite
+
+# Bỏ qua các tệp liên quan đến quản lý thư viện và bản dựng
+*.lock.json
+**/node_modules/
+**/dist/
+*.vs/
+.vscode/
+.idea/
+
+# CI/CD
+*.yml
+*.yaml
+
+# Bỏ qua các tệp hệ điều hành
+.DS_Store
+Thumbs.db
